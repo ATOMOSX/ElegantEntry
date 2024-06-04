@@ -69,5 +69,110 @@ body {
 .login input {
     width: 100%;
     height: 50px;
-    
+    margin: 10px 0;
+    border: none;
+    border-color: transparent;
+    color: black;
+    border-bottom: black 2px solid;
+    font-size: 16px;
+}
+
+.login button {
+    width: 100%;
+    height: 40px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    color: black;
+    background-color: rgb(33, 182, 219);
+    font-size: 16px;
+    border-radius: 25px ;
+}
+
+.login button a {
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.login .access:hover {
+    background-color: rgba(33, 182, 219, 0.5);
+    cursor: pointer;
+}
+
+.login a {
+    display: block;
+    text-decoration: none;
+    font-size: 16px;
+    color: darkgray;
+    margin: 5px 0 0 0;
+}
+
+.login a:hover {
+    color: black ;
+}
+
+.login-nt {
+    width: 400px;
+    height: 500px;
+    color: white;
+    background-color: black;
+    box-sizing: border-box;
+    padding:  40px;
+    border-radius: 10px;
+    animation-name: borderBlack;
+    animation-duration: 2s;
+    animation-timing-function: ease-out;
+    animation-fill-mode: forwards;
+}
+
+@keyframes borderBlack {
+    0% {
+        border-radius: 0%;
+    }
+
+    100% {
+        border-top-right-radius: 10%;
+        border-bottom-right-radius: 15%;
+    }
+}
+
+.login-nt .title {
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 30px  ;
+}
+
+.login-nt button {
+    width: 100%;
+    margin: 20px 0;
+    position: relative;
+    border-radius: 10px;
+    border-style: none;
+}
+
+.login-nt button i {
+    position: absolute;
+    top: 10px;
+    left: 20px;
+}
+
+.login-nt .mail {
+    background-color: #dd4a39;
+    color: white;
+    font-size: 18px;
+}
+
+.login-nt .fb {
+    background-color: #3d5999;
+    color: white;
+    font-size: 18px;
+}
+
+.login-nt .tw {
+    background-color: #00acee;
+    color: white;
+    font-size: 18px;
 }
