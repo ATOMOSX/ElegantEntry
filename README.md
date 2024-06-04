@@ -24,3 +24,27 @@ Para utilizar este proyecto, simplemente clona el repositorio y abre los archivo
 
 ```bash
 git clone https://github.com/ATOMOSX/ElegantEntry.git
+```
+
+Abre index.html en tu navegador para acceder a la página principal.
+
+## Personalización
+Puedes personalizar las páginas editando los archivos HTML y CSS según tus necesidades. Los estilos están definidos en la carpeta css, y puedes agregar o modificar las reglas de estilo según lo necesites.
+
+## Contribuciones
+Las contribuciones son bienvenidas. Si deseas contribuir, sigue estos pasos:
+
+Haz un fork del repositorio.
+Crea una nueva rama 
+```bash
+git checkout -b feature/nueva-caracteristica
+```
+Realiza tus cambios y haz commit
+```bash
+git commit -am 'Agrega nueva característica'
+```
+Envía tus cambios al repositorio remoto 
+```bash
+git push origin feature/nueva-caracteristica
+```
+Abre un Pull Request.
