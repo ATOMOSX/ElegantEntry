@@ -34,17 +34,24 @@ Puedes personalizar las páginas editando los archivos HTML y CSS según tus nec
 ## Contribuciones
 Las contribuciones son bienvenidas. Si deseas contribuir, sigue estos pasos:
 
-Haz un fork del repositorio.
-Crea una nueva rama 
+1. Haz un fork del repositorio.
+
+2. Crea una nueva rama 
+
 ```bash
 git checkout -b feature/nueva-caracteristica
 ```
-Realiza tus cambios y haz commit
+
+3. Realiza tus cambios y haz commit
+
 ```bash
 git commit -am 'Agrega nueva característica'
 ```
-Envía tus cambios al repositorio remoto 
+
+4. Envía tus cambios al repositorio remoto 
+
 ```bash
 git push origin feature/nueva-caracteristica
 ```
-Abre un Pull Request.
+
+5. Abre un Pull Request.
