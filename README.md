@@ -32,7 +32,7 @@ Abre index.html en tu navegador para acceder a la página principal.
 Puedes personalizar las páginas editando los archivos HTML y CSS según tus necesidades. Los estilos están definidos en la carpeta css, y puedes agregar o modificar las reglas de estilo según lo necesites.
 
 ## Contribuciones
-Las contribuciones son bienvenidas. Si deseas contribuir, sigue estos pasos:
+Las contribuciones son bienvenidas. Si deseas contribuir, sigue estos pasos para contribuir:
 
 1. Haz un fork del repositorio.
 
