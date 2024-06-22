@@ -26,7 +26,7 @@ Para utilizar este proyecto, simplemente clona el repositorio y abre los archivo
 git clone https://github.com/ATOMOSX/ElegantEntry.git
 ```
 
-Abre index.html en tu navegador para acceder a la página principal.
+Abre index.html en tu navegador para acceder a la página principal ycomenzar a navegar.
 
 ## Personalización
 Puedes personalizar las páginas editando los archivos HTML y CSS según tus necesidades. Los estilos están definidos en la carpeta css, y puedes agregar o modificar las reglas de estilo según lo necesites.
